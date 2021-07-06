@@ -6,5 +6,5 @@ Used GeoJson data and other tools to display a visualization of earthquakes, maj
 
 
 ## link
-[Challenge Complete](file:///Users/AllisonChavez/Mapping_Earthquakes/Earthquake_Challenge/index.html)
+challenge complete: file:///Users/AllisonChavez/Mapping_Earthquakes/Earthquake_Challenge/index.html
 
